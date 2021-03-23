@@ -6,7 +6,7 @@
 
 ⚡ Fun fact: I make a digital product to solve my own problems, other people's problems, or just for fun.
 
-🤔 Tech stacks: Express, Laravel, Lumen, COdeIgniter, MySql, MongoDB, Redis, etc
+🤔 Tech stacks: Express, Laravel, Lumen, CodeIgniter, MySql, MongoDB, Redis, Azure Function, etc
 
 📫 How to reach me: just send me [email](mailto:faisalwilmar@gmail.com) 😄
 
