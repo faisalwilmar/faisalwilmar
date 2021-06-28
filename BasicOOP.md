@@ -500,7 +500,7 @@ public class TeamLead: IProgrammer, ILead
 }
 ```
 ## D: Dependency Inversion Principle
-Entitas harus bergantung pada abstraksi, bukan pada konkresi. Ini menyatakan bahwa modul tingkat tinggi tidak boleh bergantung pada modul tingkat rendah, tetapi harus bergantung pada abstraksi.
+Entitas harus bergantung pada abstraksi, bukan pada implementasi(konkresi). Ini menyatakan bahwa modul tingkat tinggi tidak boleh bergantung pada modul tingkat rendah, tetapi harus bergantung pada abstraksi.
 
 Contoh:
 ```C#
