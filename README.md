@@ -2,11 +2,11 @@
 
 🔭 I’m currently working on IT Consultant Company.
 
-🌱 I’m currently learning **Data Analytics, Data Engineering** and some **Software Engineering**.
+🌱 I’m currently learning and working on **Software Engineering** using .NET Core (C#) and various Azure Products.
 
 ⚡ Fun fact: I make a digital product to solve my own problems, other people's problems, or just for fun.
 
-🤔 Tech stacks: Express, Laravel, Lumen, CodeIgniter, MySql, MongoDB, Redis, Azure Function, etc
+🤔 Tech stacks: .NET Core, Azure Function App, Azure Web App, Azure CosmosDB DocumentDB, Azure SQL Database, Azure Event Hubs, Azure Event Grid, Redis Cache, etc.
 
 📫 How to reach me: just send me [email](mailto:faisalwilmar@gmail.com) 😄
 
